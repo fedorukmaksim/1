@@ -2,7 +2,7 @@
 # Travel Blog
 ---------
 
-(cool_cat.jpg)
+![Aura farm cat](cool_cat.jpg)
 
 
 * **Developer:** *Fedoruk Maxym*
